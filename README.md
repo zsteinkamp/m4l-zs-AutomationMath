@@ -32,7 +32,7 @@ The invert toggle (Ø) will flip the output signal, so 0 becomes 1, and 1 become
 
 ## Changelog
 
-* 2022-04-08 Initial release. [0.0.1](https://github.com/zsteinkamp/m4l-zs-AutomationMath/tree/main/frozen/AutomationMath-0.0.1.amxd)
+* 2022-04-08 [0.0.1](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.1.amxd) - Initial release.
 
 ## Contributing
 
