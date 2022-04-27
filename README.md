@@ -14,8 +14,8 @@ You can add, subtract, multiply, and divide two input signals. From there, you c
 
 ## Changelog
 
-* 2022-04-27 [0.0.4](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.4.amxd) - Add multiple mapping destinations (thanks AYA)
-* 2022-04-26 [0.0.3](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.3.amxd) - Fix bug (#1) with multiple instances.
+* 2022-04-27 [0.0.4](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.4.amxd) - Add multiple mapping destinations.  (thanks AYA)
+* 2022-04-26 [0.0.3](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.3.amxd) - Fix bug with multiple instances. (thanks Spin)
 * 2022-04-09 [0.0.2](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.2.amxd) - Change layout to match LFO device.
 * 2022-04-08 [0.0.1](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.1.amxd) - Initial release.
 
