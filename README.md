@@ -12,6 +12,13 @@ You can add, subtract, multiply, and divide two input signals. From there, you c
 
 [Download the newest .amxd file from the frozen/ directory](https://github.com/zsteinkamp/m4l-zs-AutomationMath/tree/main/frozen/) or clone this repository, and drag the `AutomationMath.amxd` device into a track in Ableton Live.
 
+## Changelog
+
+* 2022-04-27 [0.0.4](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.4.amxd) - Add multiple mapping destinations (thanks AYA)
+* 2022-04-26 [0.0.3](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.3.amxd) - Fix bug (#1) with multiple instances.
+* 2022-04-09 [0.0.2](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.2.amxd) - Change layout to match LFO device.
+* 2022-04-08 [0.0.1](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.1.amxd) - Initial release.
+
 ## Usage
 
 Usually, you would map a MIDI controller or automation source to `Input A` and `Input B`. Choose an operator, and then map the output to some other parameter. The example above shows it mapped to the Auto Filter Frequency.
@@ -29,13 +36,6 @@ The invert toggle (Ø) will flip the output signal, so 0 becomes 1, and 1 become
 ## TODO
 
 * ...
-
-## Changelog
-
-* 2022-04-27 [0.0.4](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.4.amxd) - Add multiple mapping destinations (thanks AYA)
-* 2022-04-26 [0.0.3](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.3.amxd) - Fix bug (#1) with multiple instances.
-* 2022-04-09 [0.0.2](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.2.amxd) - Change layout to match LFO device.
-* 2022-04-08 [0.0.1](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.1.amxd) - Initial release.
 
 ## Contributing
 
