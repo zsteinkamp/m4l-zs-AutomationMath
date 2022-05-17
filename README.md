@@ -15,6 +15,7 @@ Here is an image AutomationMath multiplying the signals of an LFO (mapped to Inp
 
 ## Changelog
 
+* 2022-05-16 [0.0.5](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.5.amxd) - Configure the `live.banks` object for Push2 knob assignments.
 * 2022-04-27 [0.0.4](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.4.amxd) - Add multiple mapping destinations.  (thanks AYA)
 * 2022-04-26 [0.0.3](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.3.amxd) - Fix bug with multiple instances. (thanks Spin)
 * 2022-04-09 [0.0.2](https://github.com/zsteinkamp/m4l-zs-AutomationMath/raw/main/frozen/AutomationMath-0.0.2.amxd) - Change layout to match LFO device.
